@@ -1,29 +1,3 @@
-/***********************
-*         Fan          *
-* ---------------------*
-* +SLOW: int           *
-* ----------           *
-* +MEDIUM: int         *
-* ------------         *
-* +FAST: int           *
-* ----------           *
-* -speed: int          *
-* -on: boolean         *
-* -radius: double      *
-* +color: String       *
-* +Fan()               *
-* +setSpeed(int)       *
-* +turnOn()            *
-* +turnOff()           *
-* +setRadius(double):  *
-* +setColor(String):   *
-* +getSpeed(): String  *
-* +isOn(): boolean     *
-* +getRadius(): double *
-* +getColor(): String  *
-* +toString(): String  *
-***********************/
-
 public class Fan {
 	final static int SLOW = 1;
 	final static int MEDIUM = 2;
